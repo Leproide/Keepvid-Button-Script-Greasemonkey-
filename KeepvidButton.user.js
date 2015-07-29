@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id             www.youtube.com-b4cec435-efa8-4e1d-b356-8be3973ea712@YoutubeKeepvid
-// @name           Youtube keepvid button
+// @name           Youtube Keepvid Button - Leprechaun Fork
 // @version        1.3
 // @namespace      YoutubeKeepvid
 // @author         Guile93 edited by Leprechaun
