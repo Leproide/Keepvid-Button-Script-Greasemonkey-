@@ -26,3 +26,4 @@ if (b1) {
 } else {
   b2.appendChild(newLink);
 }
+
